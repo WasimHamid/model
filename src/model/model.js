@@ -13,7 +13,7 @@ class Modal extends React.Component {
           }}
           className={css.modal}
         >
-          <h2>PORTAL!</h2>
+          <h2>My Favourite Hobbies</h2>
           <p>
             You can do some stuff in here, and we have attached this whole this
             to the body, not the react tree
