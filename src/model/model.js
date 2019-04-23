@@ -14,10 +14,27 @@ class Modal extends React.Component {
           className={css.modal}
         >
           <h2>My Favourite Hobbies</h2>
-          <p>
-            You can do some stuff in here, and we have attached this whole this
-            to the body, not the react tree
-          </p>
+          <li>
+<b>Football</b>
+</li>
+<li>
+<b>Snooker</b>
+</li>
+<li>
+<b>Cricket</b>
+</li>
+<li>
+<b>Swimming</b>
+</li>
+<li>
+<b>Gaming</b>
+</li>
+<li>
+<b>Table Tennis</b>
+</li>
+<li>
+<b>Basketball</b>
+</li>
           <button onClick={this.props.onClose}>Close</button>
         </div>
       </div>,
